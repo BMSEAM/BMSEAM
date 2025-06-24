@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bm Jaber seam</h1>
 <h3 align="center">Hi, I'm Bm Jaber Seam — an undergraduate Computer Science engineer and passionate web developer, building responsive, user-focused applications while continuously learning and growing in the tech world</h3>
+<p> Studying at </P>
+<h2 align="center"> Brac University</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmseam&label=Profile%20views&color=0e75b6&style=flat" alt="bmseam" /> </p>
 
@@ -17,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bm seaym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bm seaym" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bm jaber seam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bm jaber seam" height="30" width="40" /></a>
-<a href="https://fb.com/bm seaym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bm seaym" height="30" width="40" /></a>
-<a href="https://instagram.com/bm_seaym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bm_seaym" height="30" width="40" /></a>
+<a href="[https://twitter.com/bm seaym](https://x.com/SeaymBm)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bm seaym" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/bm jaber seam](https://www.linkedin.com/in/bmjaberseam/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bm jaber seam" height="30" width="40" /></a>
+<a href="[https://fb.com/bm seaym](https://www.facebook.com/bm.seaym/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bm seaym" height="30" width="40" /></a>
+<a href="[https://instagram.com/bm_seaym](https://www.instagram.com/bm_seaym/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bm_seaym" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
