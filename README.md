@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://bmseam.github.io/Bm-Final/](https://bmseam.github.io/Bm-Final/)
+- 👨‍💻 All of my projects are available at my Github
 
 - 📫 How to reach me **bmjaberseam@gmail.com**
 
